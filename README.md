@@ -1,5 +1,5 @@
 ---
-'stage:''preview''': null
+stage: preview
 ---
 
 # [HTML5 Boilerplate](http://html5boilerplate.com)
