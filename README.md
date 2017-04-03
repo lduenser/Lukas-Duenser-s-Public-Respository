@@ -1,16 +1,19 @@
+---
+'stage:''preview''': null
+---
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
-HTML5 Boilerplate is a professional front-end template for building fast,
+HTML5 Boilerplate is a professional front-end template for building fast,  
 robust, and adaptable web apps or sites.
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
+This project is the product of many years of iterative development and combined  
+community knowledge. It does not impose a specific development philosophy or  
 framework, so you're free to architect your code in the way that you want.
 
 * Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
 * Twitter: [@h5bp](http://twitter.com/h5bp)
-
 
 ## Quick start
 
@@ -19,15 +22,14 @@ Choose one of the following options:
 1. Download the latest stable release from
    [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
    [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
+2. Clone the git repo — \`git clone
+   [https://github.com/h5bp/html5-boilerplate.git\`](https://github.com/h5bp/html5-boilerplate.git`) - and checkout the tagged
    release you'd like to use.
-
 
 ## Features
 
 * HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
+* Cross-browser compatible \(Chrome, Opera, Safari, Firefox 3.6+, IE6+\).
 * Designed with progressive enhancement in mind.
 * Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
   normalizations and common bug fixes.
@@ -46,16 +48,15 @@ Choose one of the following options:
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
 
-
 ## Documentation
 
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
+Take a look at the [documentation table of contents](doc/TOC.md). This  
+documentation is bundled with the project, which makes it readily available for  
+offline reading and provides a useful starting point for any documentation you  
 want to write about your project.
-
 
 ## Contributing
 
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
+Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of  
 developers have helped make the HTML5 Boilerplate what it is today.
+
